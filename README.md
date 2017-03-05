@@ -1,2 +1,5 @@
 # Air-Pollution
 K means analysis on Air Pollution data
+The data produced by IoT (internet of things) is enormous and data mining techniques can be used to get hidden information, which is of high business value. Smart cities are completely based on IoT.Air pollution is increasing rapidly in the smart cities and has adverse effects on human health. The sources of pollution are many including road traffic, industrial gases and others. In this study we try to find the healthiest areas, which are suitable for leaving, in the smart cities by using K-means clustering. The dataset is generated from the City Plus project. The data is enormous and dynamic due to the number of sensors deployed in the same location and their measurement frequency. This data consists of 5 air pollutants namely ozone, sulfur dioxide, nitrogen dioxide, carbon monoxide and particulate matter. There are 3 more fields in the data set namely- Longitude, latitude and timestamp.
+
+Dataset url: http://iot.ee.surrey.ac.uk:8080/datasets.html
